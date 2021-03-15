@@ -45,3 +45,26 @@ a{
     left: 1rem;
     
 }
+
+.conf-buttons{
+    float: right;
+    margin-left: 0.5rem;
+}
+
+#Cancelar {
+    background-color: #D91818;
+}
+
+#Confirmar{
+    background-color: #CC9A99;
+}
+
+#prodname{
+    position: relative;
+    font-size: large;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
