@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    position: relative;
+}
+#logo{
+    font-family: 'Satisfy', cursive;
+    left: 1rem;
+    font-size: 2rem;
+}
+
+#cart {
+    right: 2rem;
+}
+#items {
+    right: 2rem;
+}
+svg {
+    width: 2rem;
+    height: 2rem;
+}
+
+#bannerimage{
+    height: 400px;
+    background-position: center;
+    background-image: url("images/banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 1rem;
+}
+#menu{
+    margin-top: 1rem;
+    position: relative;
+}
+
+a{
+    cursor: pointer;
+}
+
+#price{
+    font-weight: bold;
+}
+
+.tabla {
+    left: 1rem;
+    
+}
